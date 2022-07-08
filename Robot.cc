@@ -1,9 +1,8 @@
 #define echoPin 2 // attach pin D2 to pin Echo of HC-SR04
 #define trigPin 3 //attach pin D3 to pin Trig of HC-SR04
 
-// defines variables
-long duration; // variable for the duration of sound wave travel
-int distance; // variable for the distance measurement
+long duration;
+int distance;
 const int RIGHT_MOTOR_1 = 10;
 const int RIGHT_MOTOR_2 = 9;
 
