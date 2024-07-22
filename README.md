@@ -10,4 +10,4 @@ You will also need a copy of the [Arduino IDE.](https://www.arduino.cc/en/softwa
 
 Plug the requred pins into the reqiered ports and add some wheels and send the code to the UNO, it is reccomended that you plug a power bank into the uno as it wont travel far if it is plugged into your computer.
 
-## This code works in either C or C++ (C++ seemed to work in my experience)
+## This code works in either C or C++, (C++ seemed to work in my experience)
